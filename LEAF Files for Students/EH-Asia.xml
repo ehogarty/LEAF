@@ -1051,12 +1051,170 @@
 	}
 }]]>
         </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?correction_annotation_20241105151608928",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-11-05T20:16:08.928Z",
+	"dcterms:modified": "2024-11-05T20:16:08.928Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/ehogarty",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Emma Hogarty"
+	},
+	"oa:motivatedBy": "oa:editing",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?correction_annotation_20241105151608928#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.6.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?correction_annotation_20241105151608928#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/p[4]/choice[2]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "fabio:Correction",
+		"dc:format": "text/xml",
+		"rdf:value": "self"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.6.0"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?correction_annotation_20241105151632045",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-11-05T20:16:32.045Z",
+	"dcterms:modified": "2024-11-05T20:16:32.045Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/ehogarty",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Emma Hogarty"
+	},
+	"oa:motivatedBy": "oa:editing",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?correction_annotation_20241105151632045#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.6.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?correction_annotation_20241105151632045#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/p[4]/choice"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "fabio:Correction",
+		"dc:format": "text/xml",
+		"rdf:value": "deserts"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.6.0"
+	}
+}]]>
+        </rdf:Description>
       </rdf:RDF></xenoData></teiHeader>
 	<text>
 		<body>
 			<pb facs="https://raw.githubusercontent.com/kmabennett/LEAF/refs/heads/main/6-Asia-Ort-1.jpg"/>
 			<div>
-				<p>                                                               ASIA</p><p/><p>ASIA being the <choice><sic>ſeconde</sic><corr>second</corr></choice> parte of the world, hath on the <choice><sic>weſt</sic><corr>west</corr></choice> ſyde to <choice><sic>deuyde</sic><corr>divide</corr></choice> it from <placeName key="Europe" ref="http://www.wikidata.org/entity/Q46">Europe</placeName>, the <choice><sic>riuer</sic><corr>river</corr></choice> Tanais, from the head where of the deuiſion is mad (as it <choice><sic>vvere</sic><corr>were</corr></choice> by a lyne) &amp; extended vnto Sinns grandnicus. It is <choice><sic>moreouer</sic><corr>moreover</corr></choice> deuyded by Mare Magiore, &amp; a pece of the Mediteraneun ſea. On the <choice><sic>ſouth</sic><corr>south</corr></choice> ſyde it hath the ſea of <placeName key="India" ref="http://www.wikidata.org/entity/Q668">India</placeName>. On the <choice><sic>eaſt</sic><corr>east</corr></choice> the Ocean called Eous, otherwiſe, the eaſt <choice><sic>ſea</sic><corr>sea</corr></choice>, And on the north the icy ſea of Suhia. </p><p>Aſia by estimation ſeemeth as great as Europe and <placeName key="Africa" ref="http://www.wikidata.org/entity/Q15">Affrica</placeName>, yet it is not taken to bee ſo populus as Europe having many wonderfull deſerts, huge mountaines, &amp; ſpatious ſandy regiones, &amp; the mount Taurus ſtretcheth it ſelf very farr &amp; through the middeſt thereof, </p><p>Some have deuyded this parte into fyue portions, The firſt is that which ioyneth</p></div>
+				<p>                                                               ASIA</p><p/><p>ASIA being the <choice><sic>ſeconde</sic><corr>second</corr></choice> parte of the world, hath on the <choice><sic>weſt</sic><corr>west</corr></choice> ſyde to <choice><sic>deuyde</sic><corr>divide</corr></choice> it from <placeName key="Europe" ref="http://www.wikidata.org/entity/Q46">Europe</placeName>, the <choice><sic>riuer</sic><corr>river</corr></choice> Tanais, from the head where of the deuiſion is mad (as it <choice><sic>vvere</sic><corr>were</corr></choice> by a lyne) &amp; extended vnto Sinns grandnicus. It is <choice><sic>moreouer</sic><corr>moreover</corr></choice> deuyded by Mare Magiore, &amp; a pece of the Mediteraneun ſea. On the <choice><sic>ſouth</sic><corr>south</corr></choice> ſyde it hath the ſea of <placeName key="India" ref="http://www.wikidata.org/entity/Q668">India</placeName>. On the <choice><sic>eaſt</sic><corr>east</corr></choice> the Ocean called Eous, otherwiſe, the eaſt <choice><sic>ſea</sic><corr>sea</corr></choice>, And on the north the icy ſea of Suhia. </p><p>Aſia by estimation ſeemeth as great as Europe and <placeName key="Africa" ref="http://www.wikidata.org/entity/Q15">Affrica</placeName>, yet it is not taken to bee ſo populus as Europe having many wonderfull <choice><sic>deſerts</sic><corr>deserts</corr></choice>, huge mountaines, &amp; ſpatious ſandy regiones, &amp; the mount Taurus ſtretcheth it <choice><sic>ſelf</sic><corr>self</corr></choice> very farr &amp; through the middeſt thereof, </p><p>Some have deuyded this parte into fyue portions, The firſt is that which ioyneth</p></div>
 		</body>
 	</text>
 </TEI>
