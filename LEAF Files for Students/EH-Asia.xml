@@ -44,10 +44,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?place_annotation_20241105150012979",
+	"id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?place_annotation_20241105150012979",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-05T20:00:12.979Z",
-	"dcterms:modified": "2024-11-05T20:00:12.979Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ehogarty",
 		"@type": [
@@ -58,10 +57,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?place_annotation_20241105150012979#Target",
+		"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?place_annotation_20241105150012979#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml",
+			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -72,7 +71,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?place_annotation_20241105150012979#Selector",
+			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?place_annotation_20241105150012979#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[3]/placeName[2]"
 		}
@@ -123,10 +122,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?place_annotation_20241105150114273",
+	"id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?place_annotation_20241105150114273",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-05T20:01:14.273Z",
-	"dcterms:modified": "2024-11-05T20:01:14.273Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ehogarty",
 		"@type": [
@@ -137,10 +135,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?place_annotation_20241105150114273#Target",
+		"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?place_annotation_20241105150114273#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml",
+			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -151,7 +149,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?place_annotation_20241105150114273#Selector",
+			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?place_annotation_20241105150114273#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[4]/placeName[2]"
 		}
@@ -202,10 +200,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?place_annotation_20241105150210502",
+	"id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?place_annotation_20241105150210502",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-05T20:02:10.502Z",
-	"dcterms:modified": "2024-11-05T20:02:10.502Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ehogarty",
 		"@type": [
@@ -216,10 +213,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?place_annotation_20241105150210502#Target",
+		"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?place_annotation_20241105150210502#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml",
+			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -230,7 +227,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?place_annotation_20241105150210502#Selector",
+			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?place_annotation_20241105150210502#Selector",
 			"@type": "oa:RangeSelector",
 			"oa:hasStartSelector": {
 				"@type": "oa:XPathSelector",
@@ -293,10 +290,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?correction_annotation_20241105150633163",
+	"id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?correction_annotation_20241105150633163",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-05T20:06:33.163Z",
-	"dcterms:modified": "2024-11-05T20:06:33.163Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ehogarty",
 		"@type": [
@@ -307,10 +303,10 @@
 	},
 	"oa:motivatedBy": "oa:editing",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?correction_annotation_20241105150633163#Target",
+		"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?correction_annotation_20241105150633163#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml",
+			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -321,7 +317,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?correction_annotation_20241105150633163#Selector",
+			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?correction_annotation_20241105150633163#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[3]/choice[5]"
 		}
@@ -372,10 +368,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?correction_annotation_20241105150849549",
+	"id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?correction_annotation_20241105150849549",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-05T20:08:49.549Z",
-	"dcterms:modified": "2024-11-05T20:08:49.549Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ehogarty",
 		"@type": [
@@ -386,10 +381,10 @@
 	},
 	"oa:motivatedBy": "oa:editing",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?correction_annotation_20241105150849549#Target",
+		"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?correction_annotation_20241105150849549#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml",
+			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -400,7 +395,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?correction_annotation_20241105150849549#Selector",
+			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?correction_annotation_20241105150849549#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[3]/choice"
 		}
@@ -451,10 +446,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?correction_annotation_20241105150919703",
+	"id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?correction_annotation_20241105150919703",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-05T20:09:19.703Z",
-	"dcterms:modified": "2024-11-05T20:09:19.703Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ehogarty",
 		"@type": [
@@ -465,10 +459,10 @@
 	},
 	"oa:motivatedBy": "oa:editing",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?correction_annotation_20241105150919703#Target",
+		"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?correction_annotation_20241105150919703#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml",
+			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -479,7 +473,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?correction_annotation_20241105150919703#Selector",
+			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?correction_annotation_20241105150919703#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[3]/choice[6]"
 		}
@@ -530,10 +524,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?place_annotation_20241105151051312",
+	"id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?place_annotation_20241105151051312",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-05T20:10:51.312Z",
-	"dcterms:modified": "2024-11-05T20:10:51.312Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ehogarty",
 		"@type": [
@@ -544,10 +537,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?place_annotation_20241105151051312#Target",
+		"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?place_annotation_20241105151051312#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml",
+			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -558,7 +551,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?place_annotation_20241105151051312#Selector",
+			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?place_annotation_20241105151051312#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[3]/placeName[5]"
 		}
@@ -609,10 +602,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?correction_annotation_20241105151140768",
+	"id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?correction_annotation_20241105151140768",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-05T20:11:40.768Z",
-	"dcterms:modified": "2024-11-05T20:11:40.768Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ehogarty",
 		"@type": [
@@ -623,10 +615,10 @@
 	},
 	"oa:motivatedBy": "oa:editing",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?correction_annotation_20241105151140768#Target",
+		"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?correction_annotation_20241105151140768#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml",
+			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -637,7 +629,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?correction_annotation_20241105151140768#Selector",
+			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?correction_annotation_20241105151140768#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[3]/choice[7]"
 		}
@@ -688,10 +680,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?correction_annotation_20241105151301171",
+	"id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?correction_annotation_20241105151301171",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-05T20:13:01.171Z",
-	"dcterms:modified": "2024-11-05T20:13:01.171Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ehogarty",
 		"@type": [
@@ -702,10 +693,10 @@
 	},
 	"oa:motivatedBy": "oa:editing",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?correction_annotation_20241105151301171#Target",
+		"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?correction_annotation_20241105151301171#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml",
+			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -716,7 +707,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?correction_annotation_20241105151301171#Selector",
+			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?correction_annotation_20241105151301171#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[3]/choice[3]"
 		}
@@ -767,10 +758,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?correction_annotation_20241105151343754",
+	"id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?correction_annotation_20241105151343754",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-05T20:13:43.754Z",
-	"dcterms:modified": "2024-11-05T20:13:43.754Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ehogarty",
 		"@type": [
@@ -781,10 +771,10 @@
 	},
 	"oa:motivatedBy": "oa:editing",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?correction_annotation_20241105151343754#Target",
+		"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?correction_annotation_20241105151343754#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml",
+			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -795,7 +785,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?correction_annotation_20241105151343754#Selector",
+			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?correction_annotation_20241105151343754#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[3]/choice[15]"
 		}
@@ -846,10 +836,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?correction_annotation_20241105151404105",
+	"id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?correction_annotation_20241105151404105",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-05T20:14:04.105Z",
-	"dcterms:modified": "2024-11-05T20:14:04.105Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ehogarty",
 		"@type": [
@@ -860,10 +849,10 @@
 	},
 	"oa:motivatedBy": "oa:editing",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?correction_annotation_20241105151404105#Target",
+		"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?correction_annotation_20241105151404105#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml",
+			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -874,7 +863,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?correction_annotation_20241105151404105#Selector",
+			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?correction_annotation_20241105151404105#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[3]/choice[18]"
 		}
@@ -925,10 +914,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?correction_annotation_20241105151456409",
+	"id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?correction_annotation_20241105151456409",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-05T20:14:56.409Z",
-	"dcterms:modified": "2024-11-05T20:14:56.409Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ehogarty",
 		"@type": [
@@ -939,10 +927,10 @@
 	},
 	"oa:motivatedBy": "oa:editing",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?correction_annotation_20241105151456409#Target",
+		"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?correction_annotation_20241105151456409#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml",
+			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -953,7 +941,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?correction_annotation_20241105151456409#Selector",
+			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?correction_annotation_20241105151456409#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[3]/choice[12]"
 		}
@@ -1004,10 +992,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?correction_annotation_20241105151511143",
+	"id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?correction_annotation_20241105151511143",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-05T20:15:11.143Z",
-	"dcterms:modified": "2024-11-05T20:15:11.143Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ehogarty",
 		"@type": [
@@ -1018,10 +1005,10 @@
 	},
 	"oa:motivatedBy": "oa:editing",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?correction_annotation_20241105151511143#Target",
+		"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?correction_annotation_20241105151511143#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml",
+			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -1032,7 +1019,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?correction_annotation_20241105151511143#Selector",
+			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?correction_annotation_20241105151511143#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[3]/choice[10]"
 		}
@@ -1083,10 +1070,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?correction_annotation_20241105151608928",
+	"id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?correction_annotation_20241105151608928",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-05T20:16:08.928Z",
-	"dcterms:modified": "2024-11-05T20:16:08.928Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ehogarty",
 		"@type": [
@@ -1097,10 +1083,10 @@
 	},
 	"oa:motivatedBy": "oa:editing",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?correction_annotation_20241105151608928#Target",
+		"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?correction_annotation_20241105151608928#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml",
+			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -1111,7 +1097,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?correction_annotation_20241105151608928#Selector",
+			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?correction_annotation_20241105151608928#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[4]/choice[11]"
 		}
@@ -1162,10 +1148,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?correction_annotation_20241105151632045",
+	"id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?correction_annotation_20241105151632045",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-05T20:16:32.045Z",
-	"dcterms:modified": "2024-11-05T20:16:32.045Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ehogarty",
 		"@type": [
@@ -1176,10 +1161,10 @@
 	},
 	"oa:motivatedBy": "oa:editing",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?correction_annotation_20241105151632045#Target",
+		"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?correction_annotation_20241105151632045#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml",
+			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -1190,7 +1175,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?correction_annotation_20241105151632045#Selector",
+			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?correction_annotation_20241105151632045#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[4]/choice[5]"
 		}
@@ -1241,10 +1226,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?correction_annotation_20241105151950006",
+	"id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?correction_annotation_20241105151950006",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-05T20:19:50.006Z",
-	"dcterms:modified": "2024-11-05T20:19:50.006Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ehogarty",
 		"@type": [
@@ -1255,10 +1239,10 @@
 	},
 	"oa:motivatedBy": "oa:editing",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?correction_annotation_20241105151950006#Target",
+		"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?correction_annotation_20241105151950006#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml",
+			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -1269,7 +1253,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?correction_annotation_20241105151950006#Selector",
+			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?correction_annotation_20241105151950006#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[4]/choice[7]"
 		}
@@ -1320,88 +1304,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?correction_annotation_20241105152004827",
-	"type": "oa:Annotation",
-	"dcterms:created": "2024-11-05T20:20:04.827Z",
-	"dcterms:modified": "2024-11-05T20:20:04.827Z",
-	"dcterms:creator": {
-		"@id": "https://github.com/ehogarty",
-		"@type": [
-			"cwrc:NaturalPerson",
-			"schema:Person"
-		],
-		"cwrc:hasName": "Emma Hogarty"
-	},
-	"oa:motivatedBy": "oa:editing",
-	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?correction_annotation_20241105152004827#Target",
-		"@type": "oa:SpecificResource",
-		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml",
-			"@type": "dctypes:Text",
-			"dc:format": "text/xml"
-		},
-		"oa:renderedVia": {
-			"@id": "https://leaf-writer.leaf-vre.org",
-			"@type": "as:Application",
-			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "3.6.0"
-		},
-		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?correction_annotation_20241105152004827#Selector",
-			"@type": "oa:XPathSelector"
-		}
-	},
-	"oa:hasBody": {
-		"@type": "fabio:Correction",
-		"dc:format": "text/xml",
-		"rdf:value": "joineth"
-	},
-	"as:generator": {
-		"@id": "https://leaf-writer.leaf-vre.org",
-		"@type": "as:Application",
-		"rdfs:label": "LEAF-Writer",
-		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "3.6.0"
-	}
-}]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
-	"@context": {
-		"dcterms:created": {
-			"@type": "xsd:dateTime",
-			"@id": "dcterms:created"
-		},
-		"dcterms:issued": {
-			"@type": "xsd:dateTime",
-			"@id": "dcterms:issued"
-		},
-		"oa:motivatedBy": {
-			"@type": "oa:Motivation"
-		},
-		"@language": "en",
-		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
-		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
-		"as": "http://www.w3.org/ns/activitystreams#",
-		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
-		"dc": "http://purl.org/dc/elements/1.1/",
-		"dcterms": "http://purl.org/dc/terms/",
-		"foaf": "http://xmlns.com/foaf/0.1/",
-		"geo": "http://www.geonames.org/ontology#",
-		"oa": "http://www.w3.org/ns/oa#",
-		"schema": "http://schema.org/",
-		"xsd": "http://www.w3.org/2001/XMLSchema#",
-		"fabio": "https://purl.org/spar/fabio#",
-		"bf": "http://www.openlinksw.com/schemas/bif#",
-		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
-		"org": "http://www.w3.org/ns/org#"
-	},
-	"id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?correction_annotation_20241105152040720",
+	"id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?correction_annotation_20241105152040720",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-05T20:20:40.720Z",
-	"dcterms:modified": "2024-11-05T20:20:40.720Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ehogarty",
 		"@type": [
@@ -1412,10 +1317,10 @@
 	},
 	"oa:motivatedBy": "oa:editing",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?correction_annotation_20241105152040720#Target",
+		"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?correction_annotation_20241105152040720#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml",
+			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -1426,7 +1331,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?correction_annotation_20241105152040720#Selector",
+			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?correction_annotation_20241105152040720#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[5]/choice[4]"
 		}
@@ -1477,10 +1382,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?correction_annotation_20241105152110767",
+	"id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?correction_annotation_20241105152110767",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-05T20:21:10.767Z",
-	"dcterms:modified": "2024-11-05T20:21:10.767Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ehogarty",
 		"@type": [
@@ -1491,10 +1395,10 @@
 	},
 	"oa:motivatedBy": "oa:editing",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?correction_annotation_20241105152110767#Target",
+		"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?correction_annotation_20241105152110767#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml",
+			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -1505,7 +1409,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?correction_annotation_20241105152110767#Selector",
+			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?correction_annotation_20241105152110767#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[5]/choice[3]"
 		}
@@ -1556,10 +1460,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?place_annotation_20241105152458387",
+	"id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?place_annotation_20241105152458387",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-05T20:24:58.387Z",
-	"dcterms:modified": "2024-11-05T20:24:58.387Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ehogarty",
 		"@type": [
@@ -1570,10 +1473,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?place_annotation_20241105152458387#Target",
+		"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?place_annotation_20241105152458387#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml",
+			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -1584,7 +1487,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?place_annotation_20241105152458387#Selector",
+			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?place_annotation_20241105152458387#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[3]/placeName"
 		}
@@ -1635,10 +1538,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?place_annotation_20241105152538573",
+	"id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?place_annotation_20241105152538573",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-05T20:25:38.573Z",
-	"dcterms:modified": "2024-11-05T20:25:38.573Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ehogarty",
 		"@type": [
@@ -1649,10 +1551,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?place_annotation_20241105152538573#Target",
+		"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?place_annotation_20241105152538573#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml",
+			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -1663,7 +1565,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?place_annotation_20241105152538573#Selector",
+			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?place_annotation_20241105152538573#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p/placeName"
 		}
@@ -1714,10 +1616,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?place_annotation_20241105152613157",
+	"id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?place_annotation_20241105152613157",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-05T20:26:13.157Z",
-	"dcterms:modified": "2024-11-05T20:26:13.157Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ehogarty",
 		"@type": [
@@ -1728,10 +1629,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?place_annotation_20241105152613157#Target",
+		"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?place_annotation_20241105152613157#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml",
+			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -1742,7 +1643,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?place_annotation_20241105152613157#Selector",
+			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?place_annotation_20241105152613157#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[4]/placeName"
 		}
@@ -1793,10 +1694,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?place_annotation_20241105152628852",
+	"id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?place_annotation_20241105152628852",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-05T20:26:28.852Z",
-	"dcterms:modified": "2024-11-05T20:26:28.852Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ehogarty",
 		"@type": [
@@ -1807,10 +1707,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?place_annotation_20241105152628852#Target",
+		"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?place_annotation_20241105152628852#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml",
+			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -1821,7 +1721,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?place_annotation_20241105152628852#Selector",
+			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?place_annotation_20241105152628852#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[4]/placeName[3]"
 		}
@@ -1872,10 +1772,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?correction_annotation_20241105152642084",
+	"id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?correction_annotation_20241105152642084",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-05T20:26:42.084Z",
-	"dcterms:modified": "2024-11-05T20:26:42.084Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ehogarty",
 		"@type": [
@@ -1886,10 +1785,10 @@
 	},
 	"oa:motivatedBy": "oa:editing",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?correction_annotation_20241105152642084#Target",
+		"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?correction_annotation_20241105152642084#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml",
+			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -1900,7 +1799,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?correction_annotation_20241105152642084#Selector",
+			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?correction_annotation_20241105152642084#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[4]/choice"
 		}
@@ -1951,10 +1850,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?place_annotation_20241105152856912",
+	"id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?place_annotation_20241105152856912",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-05T20:28:56.912Z",
-	"dcterms:modified": "2024-11-05T20:28:56.912Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ehogarty",
 		"@type": [
@@ -1965,10 +1863,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?place_annotation_20241105152856912#Target",
+		"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?place_annotation_20241105152856912#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml",
+			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -1979,7 +1877,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?place_annotation_20241105152856912#Selector",
+			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?place_annotation_20241105152856912#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[3]/placeName[3]"
 		}
@@ -2030,10 +1928,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?correction_annotation_20241105152910171",
+	"id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?correction_annotation_20241105152910171",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-05T20:29:10.171Z",
-	"dcterms:modified": "2024-11-05T20:29:10.171Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ehogarty",
 		"@type": [
@@ -2044,10 +1941,10 @@
 	},
 	"oa:motivatedBy": "oa:editing",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?correction_annotation_20241105152910171#Target",
+		"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?correction_annotation_20241105152910171#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml",
+			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -2058,7 +1955,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?correction_annotation_20241105152910171#Selector",
+			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?correction_annotation_20241105152910171#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[3]/choice[9]"
 		}
@@ -2109,10 +2006,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?correction_annotation_20241105153003061",
+	"id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?correction_annotation_20241105153003061",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-05T20:30:03.061Z",
-	"dcterms:modified": "2024-11-05T20:30:03.061Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ehogarty",
 		"@type": [
@@ -2123,10 +2019,10 @@
 	},
 	"oa:motivatedBy": "oa:editing",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?correction_annotation_20241105153003061#Target",
+		"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?correction_annotation_20241105153003061#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml",
+			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -2137,7 +2033,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?correction_annotation_20241105153003061#Selector",
+			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?correction_annotation_20241105153003061#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[4]/choice[2]"
 		}
@@ -2188,10 +2084,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?correction_annotation_20241105153033627",
+	"id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?correction_annotation_20241105153033627",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-05T20:30:33.627Z",
-	"dcterms:modified": "2024-11-05T20:30:33.627Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ehogarty",
 		"@type": [
@@ -2202,10 +2097,10 @@
 	},
 	"oa:motivatedBy": "oa:editing",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?correction_annotation_20241105153033627#Target",
+		"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?correction_annotation_20241105153033627#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml",
+			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -2216,7 +2111,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?correction_annotation_20241105153033627#Selector",
+			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?correction_annotation_20241105153033627#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[3]/choice[8]"
 		}
@@ -2267,10 +2162,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?correction_annotation_20241105153057292",
+	"id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?correction_annotation_20241105153057292",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-05T20:30:57.292Z",
-	"dcterms:modified": "2024-11-05T20:30:57.292Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ehogarty",
 		"@type": [
@@ -2281,10 +2175,10 @@
 	},
 	"oa:motivatedBy": "oa:editing",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?correction_annotation_20241105153057292#Target",
+		"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?correction_annotation_20241105153057292#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml",
+			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -2295,7 +2189,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?correction_annotation_20241105153057292#Selector",
+			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?correction_annotation_20241105153057292#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[3]/choice[16]"
 		}
@@ -2346,10 +2240,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?correction_annotation_20241105153356257",
+	"id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?correction_annotation_20241105153356257",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-05T20:33:56.257Z",
-	"dcterms:modified": "2024-11-05T20:33:56.257Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ehogarty",
 		"@type": [
@@ -2360,10 +2253,10 @@
 	},
 	"oa:motivatedBy": "oa:editing",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?correction_annotation_20241105153356257#Target",
+		"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?correction_annotation_20241105153356257#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml",
+			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -2374,7 +2267,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?correction_annotation_20241105153356257#Selector",
+			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?correction_annotation_20241105153356257#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[4]/choice[8]"
 		}
@@ -2425,10 +2318,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?correction_annotation_20241105153450257",
+	"id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?correction_annotation_20241105153450257",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-05T20:34:50.257Z",
-	"dcterms:modified": "2024-11-05T20:34:50.257Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ehogarty",
 		"@type": [
@@ -2439,10 +2331,10 @@
 	},
 	"oa:motivatedBy": "oa:editing",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?correction_annotation_20241105153450257#Target",
+		"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?correction_annotation_20241105153450257#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml",
+			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -2453,7 +2345,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?correction_annotation_20241105153450257#Selector",
+			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?correction_annotation_20241105153450257#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[4]/choice[4]"
 		}
@@ -2504,10 +2396,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?correction_annotation_20241105153514856",
+	"id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?correction_annotation_20241105153514856",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-05T20:35:14.856Z",
-	"dcterms:modified": "2024-11-05T20:35:14.856Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ehogarty",
 		"@type": [
@@ -2518,10 +2409,10 @@
 	},
 	"oa:motivatedBy": "oa:editing",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?correction_annotation_20241105153514856#Target",
+		"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?correction_annotation_20241105153514856#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml",
+			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -2532,7 +2423,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?correction_annotation_20241105153514856#Selector",
+			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?correction_annotation_20241105153514856#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[4]/choice[10]"
 		}
@@ -2583,10 +2474,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?correction_annotation_20241105153532110",
+	"id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?correction_annotation_20241105153532110",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-05T20:35:32.110Z",
-	"dcterms:modified": "2024-11-05T20:35:32.110Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ehogarty",
 		"@type": [
@@ -2597,10 +2487,10 @@
 	},
 	"oa:motivatedBy": "oa:editing",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?correction_annotation_20241105153532110#Target",
+		"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?correction_annotation_20241105153532110#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml",
+			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -2611,7 +2501,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?correction_annotation_20241105153532110#Selector",
+			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?correction_annotation_20241105153532110#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[4]/choice[13]"
 		}
@@ -2662,10 +2552,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?place_annotation_20241105153555341",
+	"id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?place_annotation_20241105153555341",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-05T20:35:55.341Z",
-	"dcterms:modified": "2024-11-05T20:35:55.341Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ehogarty",
 		"@type": [
@@ -2676,10 +2565,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?place_annotation_20241105153555341#Target",
+		"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?place_annotation_20241105153555341#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml",
+			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -2690,7 +2579,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?place_annotation_20241105153555341#Selector",
+			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?place_annotation_20241105153555341#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[5]/placeName"
 		}
@@ -2741,10 +2630,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?place_annotation_20241105153634309",
+	"id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?place_annotation_20241105153634309",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-05T20:36:34.309Z",
-	"dcterms:modified": "2024-11-05T20:36:34.309Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ehogarty",
 		"@type": [
@@ -2755,10 +2643,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?place_annotation_20241105153634309#Target",
+		"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?place_annotation_20241105153634309#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml",
+			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -2769,7 +2657,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?place_annotation_20241105153634309#Selector",
+			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?place_annotation_20241105153634309#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[5]/placeName[2]"
 		}
@@ -2820,10 +2708,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?correction_annotation_20241105153706947",
+	"id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?correction_annotation_20241105153706947",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-05T20:37:06.947Z",
-	"dcterms:modified": "2024-11-05T20:37:06.947Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ehogarty",
 		"@type": [
@@ -2834,10 +2721,10 @@
 	},
 	"oa:motivatedBy": "oa:editing",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?correction_annotation_20241105153706947#Target",
+		"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?correction_annotation_20241105153706947#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml",
+			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -2848,7 +2735,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?correction_annotation_20241105153706947#Selector",
+			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?correction_annotation_20241105153706947#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[5]/choice"
 		}
@@ -2899,10 +2786,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?organization_annotation_20241105153751881",
+	"id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?organization_annotation_20241105153751881",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-05T20:37:51.881Z",
-	"dcterms:modified": "2024-11-05T20:37:51.881Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ehogarty",
 		"@type": [
@@ -2913,10 +2799,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?organization_annotation_20241105153751881#Target",
+		"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?organization_annotation_20241105153751881#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml",
+			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -2927,7 +2813,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?organization_annotation_20241105153751881#Selector",
+			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?organization_annotation_20241105153751881#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[5]/orgName"
 		}
@@ -2978,10 +2864,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?correction_annotation_20241105154035490",
+	"id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?correction_annotation_20241105154035490",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-05T20:40:35.490Z",
-	"dcterms:modified": "2024-11-05T20:40:35.490Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ehogarty",
 		"@type": [
@@ -2992,10 +2877,10 @@
 	},
 	"oa:motivatedBy": "oa:editing",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?correction_annotation_20241105154035490#Target",
+		"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?correction_annotation_20241105154035490#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml",
+			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -3006,7 +2891,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?correction_annotation_20241105154035490#Selector",
+			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?correction_annotation_20241105154035490#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[5]/choice[6]"
 		}
@@ -3057,10 +2942,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?correction_annotation_20241105154222085",
+	"id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?correction_annotation_20241105154222085",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-05T20:42:22.085Z",
-	"dcterms:modified": "2024-11-05T20:42:22.085Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ehogarty",
 		"@type": [
@@ -3071,10 +2955,10 @@
 	},
 	"oa:motivatedBy": "oa:editing",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?correction_annotation_20241105154222085#Target",
+		"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?correction_annotation_20241105154222085#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml",
+			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -3085,7 +2969,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?correction_annotation_20241105154222085#Selector",
+			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?correction_annotation_20241105154222085#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[3]/choice[4]"
 		}
@@ -3136,10 +3020,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?place_annotation_20241105154256349",
+	"id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?place_annotation_20241105154256349",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-05T20:42:56.349Z",
-	"dcterms:modified": "2024-11-05T20:42:56.349Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ehogarty",
 		"@type": [
@@ -3150,10 +3033,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?place_annotation_20241105154256349#Target",
+		"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?place_annotation_20241105154256349#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml",
+			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -3164,7 +3047,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?place_annotation_20241105154256349#Selector",
+			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?place_annotation_20241105154256349#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[5]/placeName[3]"
 		}
@@ -3215,10 +3098,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?correction_annotation_20241105154355915",
+	"id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?correction_annotation_20241105154355915",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-05T20:43:55.915Z",
-	"dcterms:modified": "2024-11-05T20:43:55.915Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ehogarty",
 		"@type": [
@@ -3229,10 +3111,10 @@
 	},
 	"oa:motivatedBy": "oa:editing",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?correction_annotation_20241105154355915#Target",
+		"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?correction_annotation_20241105154355915#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml",
+			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -3243,7 +3125,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?correction_annotation_20241105154355915#Selector",
+			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?correction_annotation_20241105154355915#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[5]/choice[7]"
 		}
@@ -3294,10 +3176,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?correction_annotation_20241105154422845",
+	"id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?correction_annotation_20241105154422845",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-05T20:44:22.845Z",
-	"dcterms:modified": "2024-11-05T20:44:22.845Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ehogarty",
 		"@type": [
@@ -3308,10 +3189,10 @@
 	},
 	"oa:motivatedBy": "oa:editing",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?correction_annotation_20241105154422845#Target",
+		"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?correction_annotation_20241105154422845#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml",
+			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -3322,7 +3203,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?correction_annotation_20241105154422845#Selector",
+			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?correction_annotation_20241105154422845#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[5]/choice[9]"
 		}
@@ -3373,10 +3254,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?correction_annotation_20241105154450414",
+	"id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?correction_annotation_20241105154450414",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-05T20:44:50.414Z",
-	"dcterms:modified": "2024-11-05T20:44:50.414Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ehogarty",
 		"@type": [
@@ -3387,10 +3267,10 @@
 	},
 	"oa:motivatedBy": "oa:editing",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?correction_annotation_20241105154450414#Target",
+		"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?correction_annotation_20241105154450414#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml",
+			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -3401,7 +3281,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?correction_annotation_20241105154450414#Selector",
+			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?correction_annotation_20241105154450414#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[5]/choice[11]"
 		}
@@ -3452,10 +3332,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?correction_annotation_20241105154515632",
+	"id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?correction_annotation_20241105154515632",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-05T20:45:15.632Z",
-	"dcterms:modified": "2024-11-05T20:45:15.632Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ehogarty",
 		"@type": [
@@ -3466,10 +3345,10 @@
 	},
 	"oa:motivatedBy": "oa:editing",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?correction_annotation_20241105154515632#Target",
+		"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?correction_annotation_20241105154515632#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml",
+			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -3480,7 +3359,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?correction_annotation_20241105154515632#Selector",
+			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?correction_annotation_20241105154515632#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[5]/choice[15]"
 		}
@@ -3531,10 +3410,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?correction_annotation_20241105154526592",
+	"id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?correction_annotation_20241105154526592",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-05T20:45:26.592Z",
-	"dcterms:modified": "2024-11-05T20:45:26.592Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ehogarty",
 		"@type": [
@@ -3545,10 +3423,10 @@
 	},
 	"oa:motivatedBy": "oa:editing",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?correction_annotation_20241105154526592#Target",
+		"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?correction_annotation_20241105154526592#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml",
+			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -3559,7 +3437,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?correction_annotation_20241105154526592#Selector",
+			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?correction_annotation_20241105154526592#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[5]/choice[16]"
 		}
@@ -3610,10 +3488,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?correction_annotation_20241105154813563",
+	"id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?correction_annotation_20241105154813563",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-05T20:48:13.563Z",
-	"dcterms:modified": "2024-11-05T20:48:13.563Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ehogarty",
 		"@type": [
@@ -3624,10 +3501,10 @@
 	},
 	"oa:motivatedBy": "oa:editing",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?correction_annotation_20241105154813563#Target",
+		"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?correction_annotation_20241105154813563#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml",
+			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -3638,7 +3515,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?correction_annotation_20241105154813563#Selector",
+			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?correction_annotation_20241105154813563#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[5]/choice[5]"
 		}
@@ -3689,10 +3566,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?correction_annotation_20241105154938583",
+	"id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?correction_annotation_20241105154938583",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-05T20:49:38.583Z",
-	"dcterms:modified": "2024-11-05T20:49:38.583Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ehogarty",
 		"@type": [
@@ -3703,10 +3579,10 @@
 	},
 	"oa:motivatedBy": "oa:editing",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?correction_annotation_20241105154938583#Target",
+		"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?correction_annotation_20241105154938583#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml",
+			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -3717,7 +3593,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?correction_annotation_20241105154938583#Selector",
+			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?correction_annotation_20241105154938583#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[3]/choice[2]"
 		}
@@ -3768,10 +3644,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?correction_annotation_20241105155142944",
+	"id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?correction_annotation_20241105155142944",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-05T20:51:42.944Z",
-	"dcterms:modified": "2024-11-05T20:51:42.944Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ehogarty",
 		"@type": [
@@ -3782,10 +3657,10 @@
 	},
 	"oa:motivatedBy": "oa:editing",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?correction_annotation_20241105155142944#Target",
+		"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?correction_annotation_20241105155142944#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml",
+			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -3796,7 +3671,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?correction_annotation_20241105155142944#Selector",
+			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?correction_annotation_20241105155142944#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[4]/choice[3]"
 		}
@@ -3847,10 +3722,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?correction_annotation_20241105155158813",
+	"id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?correction_annotation_20241105155158813",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-05T20:51:58.813Z",
-	"dcterms:modified": "2024-11-05T20:51:58.813Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ehogarty",
 		"@type": [
@@ -3861,10 +3735,10 @@
 	},
 	"oa:motivatedBy": "oa:editing",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?correction_annotation_20241105155158813#Target",
+		"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?correction_annotation_20241105155158813#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml",
+			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -3875,7 +3749,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?correction_annotation_20241105155158813#Selector",
+			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?correction_annotation_20241105155158813#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[4]/choice[12]"
 		}
@@ -3926,10 +3800,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?place_annotation_20241105155237584",
+	"id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?place_annotation_20241105155237584",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-05T20:52:37.584Z",
-	"dcterms:modified": "2024-11-05T20:52:37.584Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ehogarty",
 		"@type": [
@@ -3940,10 +3813,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?place_annotation_20241105155237584#Target",
+		"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?place_annotation_20241105155237584#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml",
+			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -3954,7 +3827,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?place_annotation_20241105155237584#Selector",
+			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?place_annotation_20241105155237584#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[5]/placeName[4]"
 		}
@@ -4005,10 +3878,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?correction_annotation_20241105155333397",
+	"id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?correction_annotation_20241105155333397",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-05T20:53:33.397Z",
-	"dcterms:modified": "2024-11-05T20:53:33.397Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ehogarty",
 		"@type": [
@@ -4019,10 +3891,10 @@
 	},
 	"oa:motivatedBy": "oa:editing",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?correction_annotation_20241105155333397#Target",
+		"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?correction_annotation_20241105155333397#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml",
+			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -4033,7 +3905,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?correction_annotation_20241105155333397#Selector",
+			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?correction_annotation_20241105155333397#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[4]/choice[6]"
 		}
@@ -4084,10 +3956,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?correction_annotation_20241105155346113",
+	"id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?correction_annotation_20241105155346113",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-05T20:53:46.113Z",
-	"dcterms:modified": "2024-11-05T20:53:46.113Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ehogarty",
 		"@type": [
@@ -4098,10 +3969,10 @@
 	},
 	"oa:motivatedBy": "oa:editing",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?correction_annotation_20241105155346113#Target",
+		"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?correction_annotation_20241105155346113#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml",
+			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -4112,7 +3983,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?correction_annotation_20241105155346113#Selector",
+			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?correction_annotation_20241105155346113#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[4]/choice[9]"
 		}
@@ -4163,10 +4034,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?correction_annotation_20241105155440716",
+	"id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?correction_annotation_20241105155440716",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-05T20:54:40.716Z",
-	"dcterms:modified": "2024-11-05T20:54:40.716Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ehogarty",
 		"@type": [
@@ -4177,10 +4047,10 @@
 	},
 	"oa:motivatedBy": "oa:editing",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?correction_annotation_20241105155440716#Target",
+		"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?correction_annotation_20241105155440716#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml",
+			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -4191,7 +4061,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?correction_annotation_20241105155440716#Selector",
+			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?correction_annotation_20241105155440716#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[5]/choice[2]"
 		}
@@ -4242,10 +4112,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?correction_annotation_20241105155500275",
+	"id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?correction_annotation_20241105155500275",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-05T20:55:00.275Z",
-	"dcterms:modified": "2024-11-05T20:55:00.275Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ehogarty",
 		"@type": [
@@ -4256,10 +4125,10 @@
 	},
 	"oa:motivatedBy": "oa:editing",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?correction_annotation_20241105155500275#Target",
+		"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?correction_annotation_20241105155500275#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml",
+			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -4270,7 +4139,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?correction_annotation_20241105155500275#Selector",
+			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?correction_annotation_20241105155500275#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[5]/choice[8]"
 		}
@@ -4321,10 +4190,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?correction_annotation_20241105155517076",
+	"id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?correction_annotation_20241105155517076",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-05T20:55:17.076Z",
-	"dcterms:modified": "2024-11-05T20:55:17.076Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ehogarty",
 		"@type": [
@@ -4335,10 +4203,10 @@
 	},
 	"oa:motivatedBy": "oa:editing",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?correction_annotation_20241105155517076#Target",
+		"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?correction_annotation_20241105155517076#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml",
+			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -4349,7 +4217,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?correction_annotation_20241105155517076#Selector",
+			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?correction_annotation_20241105155517076#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[5]/choice[10]"
 		}
@@ -4400,10 +4268,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?correction_annotation_20241105155546786",
+	"id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?correction_annotation_20241105155546786",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-05T20:55:46.786Z",
-	"dcterms:modified": "2024-11-05T20:55:46.786Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ehogarty",
 		"@type": [
@@ -4414,10 +4281,10 @@
 	},
 	"oa:motivatedBy": "oa:editing",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?correction_annotation_20241105155546786#Target",
+		"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?correction_annotation_20241105155546786#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml",
+			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -4428,7 +4295,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?correction_annotation_20241105155546786#Selector",
+			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?correction_annotation_20241105155546786#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[3]/choice[11]"
 		}
@@ -4479,10 +4346,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?correction_annotation_20241105155619320",
+	"id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?correction_annotation_20241105155619320",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-05T20:56:19.320Z",
-	"dcterms:modified": "2024-11-05T20:56:19.320Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ehogarty",
 		"@type": [
@@ -4493,10 +4359,10 @@
 	},
 	"oa:motivatedBy": "oa:editing",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?correction_annotation_20241105155619320#Target",
+		"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?correction_annotation_20241105155619320#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml",
+			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -4507,7 +4373,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?correction_annotation_20241105155619320#Selector",
+			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?correction_annotation_20241105155619320#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[3]/choice[13]"
 		}
@@ -4558,10 +4424,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?correction_annotation_20241105155626904",
+	"id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?correction_annotation_20241105155626904",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-05T20:56:26.904Z",
-	"dcterms:modified": "2024-11-05T20:56:26.904Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ehogarty",
 		"@type": [
@@ -4572,10 +4437,10 @@
 	},
 	"oa:motivatedBy": "oa:editing",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?correction_annotation_20241105155626904#Target",
+		"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?correction_annotation_20241105155626904#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml",
+			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -4586,7 +4451,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?correction_annotation_20241105155626904#Selector",
+			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?correction_annotation_20241105155626904#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[3]/choice[14]"
 		}
@@ -4637,10 +4502,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?correction_annotation_20241105155640060",
+	"id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?correction_annotation_20241105155640060",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-05T20:56:40.060Z",
-	"dcterms:modified": "2024-11-05T20:56:40.060Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ehogarty",
 		"@type": [
@@ -4651,10 +4515,10 @@
 	},
 	"oa:motivatedBy": "oa:editing",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?correction_annotation_20241105155640060#Target",
+		"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?correction_annotation_20241105155640060#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml",
+			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -4665,7 +4529,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?correction_annotation_20241105155640060#Selector",
+			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?correction_annotation_20241105155640060#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[3]/choice[17]"
 		}
@@ -4716,10 +4580,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?correction_annotation_20241105155650993",
+	"id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?correction_annotation_20241105155650993",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-05T20:56:50.993Z",
-	"dcterms:modified": "2024-11-05T20:56:50.993Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ehogarty",
 		"@type": [
@@ -4730,10 +4593,10 @@
 	},
 	"oa:motivatedBy": "oa:editing",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?correction_annotation_20241105155650993#Target",
+		"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?correction_annotation_20241105155650993#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml",
+			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -4744,7 +4607,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?correction_annotation_20241105155650993#Selector",
+			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?correction_annotation_20241105155650993#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[3]/choice[19]"
 		}
@@ -4795,10 +4658,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?correction_annotation_20241105155722069",
+	"id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?correction_annotation_20241105155722069",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-05T20:57:22.069Z",
-	"dcterms:modified": "2024-11-05T20:57:22.069Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ehogarty",
 		"@type": [
@@ -4809,10 +4671,10 @@
 	},
 	"oa:motivatedBy": "oa:editing",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?correction_annotation_20241105155722069#Target",
+		"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?correction_annotation_20241105155722069#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml",
+			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -4823,7 +4685,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?correction_annotation_20241105155722069#Selector",
+			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?correction_annotation_20241105155722069#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[5]/choice[12]"
 		}
@@ -4874,10 +4736,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?correction_annotation_20241105155730061",
+	"id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?correction_annotation_20241105155730061",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-05T20:57:30.061Z",
-	"dcterms:modified": "2024-11-05T20:57:30.061Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ehogarty",
 		"@type": [
@@ -4888,10 +4749,10 @@
 	},
 	"oa:motivatedBy": "oa:editing",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?correction_annotation_20241105155730061#Target",
+		"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?correction_annotation_20241105155730061#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml",
+			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -4902,7 +4763,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?correction_annotation_20241105155730061#Selector",
+			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?correction_annotation_20241105155730061#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[5]/choice[13]"
 		}
@@ -4953,10 +4814,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?correction_annotation_20241105155833801",
+	"id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?correction_annotation_20241105155833801",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-05T20:58:33.801Z",
-	"dcterms:modified": "2024-11-05T20:58:33.801Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ehogarty",
 		"@type": [
@@ -4967,10 +4827,10 @@
 	},
 	"oa:motivatedBy": "oa:editing",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?correction_annotation_20241105155833801#Target",
+		"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?correction_annotation_20241105155833801#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml",
+			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -4981,7 +4841,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?correction_annotation_20241105155833801#Selector",
+			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?correction_annotation_20241105155833801#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[5]/choice[14]"
 		}
@@ -5032,10 +4892,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?correction_annotation_20241105155847592",
+	"id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?correction_annotation_20241105155847592",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-05T20:58:47.592Z",
-	"dcterms:modified": "2024-11-05T20:58:47.592Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ehogarty",
 		"@type": [
@@ -5046,10 +4905,10 @@
 	},
 	"oa:motivatedBy": "oa:editing",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?correction_annotation_20241105155847592#Target",
+		"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?correction_annotation_20241105155847592#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml",
+			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -5060,7 +4919,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?correction_annotation_20241105155847592#Selector",
+			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?correction_annotation_20241105155847592#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[5]/choice[17]"
 		}
@@ -5111,10 +4970,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?organization_annotation_20241105155947631",
+	"id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?organization_annotation_20241105155947631",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-05T20:59:47.631Z",
-	"dcterms:modified": "2024-11-05T20:59:47.631Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ehogarty",
 		"@type": [
@@ -5125,10 +4983,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?organization_annotation_20241105155947631#Target",
+		"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?organization_annotation_20241105155947631#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml",
+			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -5139,7 +4997,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?organization_annotation_20241105155947631#Selector",
+			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?organization_annotation_20241105155947631#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[5]/orgName[3]"
 		}
@@ -5190,10 +5048,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?organization_annotation_20241105160324721",
+	"id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?organization_annotation_20241105160324721",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-05T21:03:24.721Z",
-	"dcterms:modified": "2024-11-05T21:03:24.721Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ehogarty",
 		"@type": [
@@ -5204,10 +5061,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?organization_annotation_20241105160324721#Target",
+		"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?organization_annotation_20241105160324721#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml",
+			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -5218,7 +5075,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?organization_annotation_20241105160324721#Selector",
+			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?organization_annotation_20241105160324721#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[5]/orgName[4]"
 		}
@@ -5269,10 +5126,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?note_annotation_20241105160457845",
+	"id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?note_annotation_20241105160457845",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-05T21:04:57.845Z",
-	"dcterms:modified": "2024-11-05T21:04:57.845Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ehogarty",
 		"@type": [
@@ -5283,10 +5139,10 @@
 	},
 	"oa:motivatedBy": "oa:describing",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?note_annotation_20241105160457845#Target",
+		"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?note_annotation_20241105160457845#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml",
+			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -5297,7 +5153,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?note_annotation_20241105160457845#Selector",
+			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?note_annotation_20241105160457845#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[5]/note"
 		}
@@ -5348,10 +5204,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?correction_annotation_20241105160603894",
+	"id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?correction_annotation_20241105160603894",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-05T21:06:03.894Z",
-	"dcterms:modified": "2024-11-05T21:06:03.894Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ehogarty",
 		"@type": [
@@ -5362,10 +5217,10 @@
 	},
 	"oa:motivatedBy": "oa:editing",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?correction_annotation_20241105160603894#Target",
+		"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?correction_annotation_20241105160603894#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml",
+			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -5376,7 +5231,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?correction_annotation_20241105160603894#Selector",
+			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?correction_annotation_20241105160603894#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[5]/choice[21]"
 		}
@@ -5427,10 +5282,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?correction_annotation_20241105160618120",
+	"id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?correction_annotation_20241105160618120",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-05T21:06:18.120Z",
-	"dcterms:modified": "2024-11-05T21:06:18.120Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ehogarty",
 		"@type": [
@@ -5441,10 +5295,10 @@
 	},
 	"oa:motivatedBy": "oa:editing",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?correction_annotation_20241105160618120#Target",
+		"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?correction_annotation_20241105160618120#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml",
+			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -5455,7 +5309,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?correction_annotation_20241105160618120#Selector",
+			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?correction_annotation_20241105160618120#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[5]/choice[20]"
 		}
@@ -5506,10 +5360,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?correction_annotation_20241105161313049",
+	"id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?correction_annotation_20241105161313049",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-05T21:13:13.049Z",
-	"dcterms:modified": "2024-11-05T21:13:13.049Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ehogarty",
 		"@type": [
@@ -5520,10 +5373,10 @@
 	},
 	"oa:motivatedBy": "oa:editing",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?correction_annotation_20241105161313049#Target",
+		"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?correction_annotation_20241105161313049#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml",
+			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -5534,7 +5387,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?correction_annotation_20241105161313049#Selector",
+			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?correction_annotation_20241105161313049#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[5]/choice[18]"
 		}
@@ -5585,10 +5438,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?correction_annotation_20241105161404321",
+	"id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?correction_annotation_20241105161404321",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-05T21:14:04.321Z",
-	"dcterms:modified": "2024-11-05T21:14:04.321Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ehogarty",
 		"@type": [
@@ -5599,10 +5451,10 @@
 	},
 	"oa:motivatedBy": "oa:editing",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?correction_annotation_20241105161404321#Target",
+		"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?correction_annotation_20241105161404321#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml",
+			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -5613,7 +5465,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?correction_annotation_20241105161404321#Selector",
+			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?correction_annotation_20241105161404321#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[5]/choice[19]"
 		}
@@ -5664,10 +5516,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?correction_annotation_20241105161510957",
+	"id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?correction_annotation_20241105161510957",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-05T21:15:10.957Z",
-	"dcterms:modified": "2024-11-05T21:15:10.957Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ehogarty",
 		"@type": [
@@ -5678,10 +5529,10 @@
 	},
 	"oa:motivatedBy": "oa:editing",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?correction_annotation_20241105161510957#Target",
+		"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?correction_annotation_20241105161510957#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml",
+			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -5692,7 +5543,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?correction_annotation_20241105161510957#Selector",
+			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?correction_annotation_20241105161510957#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[5]/choice[22]"
 		}
@@ -5743,10 +5594,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?correction_annotation_20241105161522968",
+	"id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?correction_annotation_20241105161522968",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-05T21:15:22.968Z",
-	"dcterms:modified": "2024-11-05T21:15:22.968Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ehogarty",
 		"@type": [
@@ -5757,10 +5607,10 @@
 	},
 	"oa:motivatedBy": "oa:editing",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?correction_annotation_20241105161522968#Target",
+		"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?correction_annotation_20241105161522968#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml",
+			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -5771,7 +5621,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?correction_annotation_20241105161522968#Selector",
+			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?correction_annotation_20241105161522968#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[5]/choice[23]"
 		}
@@ -5822,10 +5672,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?correction_annotation_20241105161727285",
+	"id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?correction_annotation_20241105161727285",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-05T21:17:27.285Z",
-	"dcterms:modified": "2024-11-05T21:17:27.285Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ehogarty",
 		"@type": [
@@ -5836,10 +5685,10 @@
 	},
 	"oa:motivatedBy": "oa:editing",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?correction_annotation_20241105161727285#Target",
+		"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?correction_annotation_20241105161727285#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml",
+			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -5850,7 +5699,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?correction_annotation_20241105161727285#Selector",
+			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?correction_annotation_20241105161727285#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[5]/choice[24]"
 		}
@@ -5901,10 +5750,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?correction_annotation_20241105161735865",
+	"id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?correction_annotation_20241105161735865",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-05T21:17:35.865Z",
-	"dcterms:modified": "2024-11-05T21:17:35.865Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ehogarty",
 		"@type": [
@@ -5915,10 +5763,10 @@
 	},
 	"oa:motivatedBy": "oa:editing",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?correction_annotation_20241105161735865#Target",
+		"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?correction_annotation_20241105161735865#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml",
+			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -5929,7 +5777,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?correction_annotation_20241105161735865#Selector",
+			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?correction_annotation_20241105161735865#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[5]/choice[25]"
 		}
@@ -5980,10 +5828,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?correction_annotation_20241105161743747",
+	"id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?correction_annotation_20241105161743747",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-05T21:17:43.747Z",
-	"dcterms:modified": "2024-11-05T21:17:43.747Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ehogarty",
 		"@type": [
@@ -5994,10 +5841,10 @@
 	},
 	"oa:motivatedBy": "oa:editing",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?correction_annotation_20241105161743747#Target",
+		"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?correction_annotation_20241105161743747#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml",
+			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -6008,7 +5855,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/6-Asia.xml?correction_annotation_20241105161743747#Selector",
+			"@id": "https://raw.githubusercontent.com/ehogarty/LEAF/main/LEAF%20Files%20for%20Students/EH-Asia.xml?correction_annotation_20241105161743747#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[5]/choice[26]"
 		}
@@ -6032,7 +5879,7 @@
 		<body>
 			<pb facs="https://raw.githubusercontent.com/kmabennett/LEAF/refs/heads/main/6-Asia-Ort-1.jpg"/>
 			<div>
-				<p>                                                               <placeName key="Asia" ref="http://www.wikidata.org/entity/Q48">ASIA</placeName></p><p/><p><placeName key="Asia" ref="http://www.wikidata.org/entity/Q48">ASIA</placeName> being the <choice><sic>ſeconde</sic><corr>second</corr></choice> <choice><sic>parte</sic><corr>part</corr></choice> of the world, hath on the <choice><sic>weſt</sic><corr>west</corr></choice> <choice><sic>ſyde</sic><corr>side</corr></choice> to <choice><sic>deuyde</sic><corr>divide</corr></choice> it from <placeName key="Europe" ref="http://www.wikidata.org/entity/Q46">Europe</placeName>, the <choice><sic>riuer</sic><corr>river</corr></choice> <placeName key="Don" ref="http://www.wikidata.org/entity/Q1229">Tanais</placeName>, from the head where of the deuiſion is made (as it <choice><sic>vvere</sic><corr>were</corr></choice> by a <choice><sic>lyne</sic><corr>line</corr></choice>) &amp; extended <choice><sic>vnto</sic><corr>unto</corr></choice> Sinns grandnicus. It is <choice><sic>moreouer</sic><corr>moreover</corr></choice> deuyded by Mare Magiore, &amp; a <choice><sic>pece</sic><corr>piece</corr></choice> of the <placeName key="Mediterranean Sea" ref="http://www.wikidata.org/entity/Q4918">Mediteraneun</placeName> ſea. On the <choice><sic>ſouth</sic><corr>south</corr></choice> <choice><sic>ſyde</sic><corr>side</corr></choice> it hath the <choice><sic>ſea</sic><corr>sea</corr></choice> of <placeName key="India" ref="http://www.wikidata.org/entity/Q668">India</placeName>. On the <choice><sic>eaſt</sic><corr>east</corr></choice> the Ocean called Eous, <choice><sic>otherwiſe</sic><corr>otherwise</corr></choice>, the <choice><sic>eaſt</sic><corr>east</corr></choice> <choice><sic>ſea</sic><corr>sea</corr></choice>, And on the north the icy <choice><sic>ſea</sic><corr>sea</corr></choice> of Suhia. </p><p>Aſia by estimation <choice><sic>ſeemeth</sic><corr>seemeth</corr></choice> as great as <placeName key="Europe" ref="http://www.wikidata.org/entity/Q46">Europe</placeName> and <placeName key="Africa" ref="http://www.wikidata.org/entity/Q15">Affrica</placeName>, yet it is not taken to <choice><sic>bee</sic><corr>be</corr></choice> <choice><sic>ſo</sic><corr>so</corr></choice> populus as <placeName key="Europe" ref="http://www.wikidata.org/entity/Q46">Europe</placeName> having many <choice><sic>wonderfull</sic><corr>wonderful</corr></choice> <choice><sic>deſerts</sic><corr>deserts</corr></choice>, huge <choice><sic>mountaines</sic><corr>mountains</corr></choice>, &amp; <choice><sic>ſpatious</sic><corr>spacious</corr></choice> <choice><sic>ſandy</sic><corr>sandy</corr></choice> <choice><sic>regiones</sic><corr>regions</corr></choice>, &amp; the mount Taurus <choice><sic>ſtretcheth</sic><corr>stretcheth</corr></choice> it <choice><sic>ſelf</sic><corr>self</corr></choice> very <choice><sic>farr</sic><corr>far</corr></choice> &amp; through the <choice><sic>middeſt</sic><corr>middest</corr></choice> thereof, </p><p>Some have <choice><sic>deuyded</sic><corr>divided</corr></choice> this <choice><sic>parte</sic><corr>part</corr></choice> into <choice><sic>fyue</sic><corr>five</corr></choice> portions, The firſt is that which <choice><sic>ioyneth</sic><corr>joyneth</corr></choice> vnto <placeName key="Europe" ref="http://www.wikidata.org/entity/Q46">Europe</placeName>, &amp; obeyeth <choice><sic>vnto</sic><corr>unto</corr></choice> the great Duke of Muſcouy.  The <choice><sic>ſecond</sic><corr>second</corr></choice> that which is <choice><sic>vnder</sic><corr>under</corr></choice> the great Cham Emperor of the Tartars.  The third that which is occupied by the race of the <orgName key="Ottoman Empire" ref="http://www.wikidata.org/entity/Q12560">Ottomans</orgName>, <choice><sic>vnder</sic><corr>under</corr></choice> the <choice><sic>foweth</sic><corr>fourth</corr></choice> is comprehended the <choice><sic>kingdome</sic><corr>kingdom</corr></choice> of <placeName key="Iran" ref="http://dbpedia.org/resource/Iran">Perſia</placeName>, <choice><sic>gouerned</sic><corr>governed</corr></choice> by the Sophie.  And the <choice><sic>fift</sic><corr>fifth</corr></choice> &amp; <choice><sic>laſte</sic><corr>last</corr></choice> <choice><sic>parte</sic><corr>part</corr></choice> is that which as of old ſoyer at this <choice><sic>preſent</sic><corr>present</corr></choice> it <choice><sic>retayneth</sic><corr>retaineth</corr></choice> the name of <placeName key="India" ref="http://www.wikidata.org/entity/Q668">India</placeName>, beeing deuyded vnder the <choice><sic>comaund</sic><corr>command</corr></choice> of many pety Kinges, whereof diuers are tributaries to the great Cham.  And in this parte is alſo <choice><sic>conteyned</sic><corr>contained</corr></choice> the great &amp; mighty kingdome of <placeName key="China" ref="http://www.wikidata.org/entity/Q29520">China</placeName>.  This parte of the earth is not only famous among prophane authors, for the firſt monarchies of the world, as of the <orgName key="African people" ref="http://www.wikidata.org/entity/Q1075929">Affricans</orgName>, <orgName key="Persians" ref="http://www.wikidata.org/entity/Q484206">Perſians</orgName>, Rabilanians, &amp; <orgName key="Medes" ref="http://www.wikidata.org/entity/Q8735">Medes</orgName>, but it is more illuſtrated aboue other partes in <choice><sic>ſacred ſcripture</sic><corr>sacred scripture</corr></choice>, wherein not only appeereth that in theſame mankynde was firſt created, by Almighty God<note type="researchNote">the Christian god</note>, but our Lord &amp; <choice><sic>ſauiour</sic><corr>savior</corr></choice> <choice><sic>Ieſus Chriſt</sic><corr>Jesus Christ</corr></choice> coming into this world for the redemption of man, did chooſe to make herein his birth place.  It is alſo to bee conſidered that the moſt <choice><sic>pretious</sic><corr>precious</corr></choice> thinges that the world doth yeild are <choice><sic>fonnd</sic><corr>found</corr></choice> in this noble parte thereof, as beſydes great varietie &amp; <choice><sic>diuers</sic><corr>diverse</corr></choice> <choice><sic>kyndes</sic><corr>kinds</corr></choice> of <choice><sic>beaſtes</sic><corr>beasts</corr></choice>, birds, excelent ſortes of ſpices, frutes, medicinall herbes, rootes, &amp; other thinges, As alſo the moſte pretious metalles, pretious ſtones, and pearles.</p></div>
+				<p>                                                               <placeName key="Asia" ref="http://www.wikidata.org/entity/Q48">ASIA</placeName></p><p/><p><placeName key="Asia" ref="http://www.wikidata.org/entity/Q48">ASIA</placeName> being the <choice><sic>ſeconde</sic><corr>second</corr></choice> <choice><sic>parte</sic><corr>part</corr></choice> of the world, hath on the <choice><sic>weſt</sic><corr>west</corr></choice> <choice><sic>ſyde</sic><corr>side</corr></choice> to <choice><sic>deuyde</sic><corr>divide</corr></choice> it from <placeName key="Europe" ref="http://www.wikidata.org/entity/Q46">Europe</placeName>, the <choice><sic>riuer</sic><corr>river</corr></choice> <placeName key="Don" ref="http://www.wikidata.org/entity/Q1229">Tanais</placeName>, from the head where of the deuiſion is made (as it <choice><sic>vvere</sic><corr>were</corr></choice> by a <choice><sic>lyne</sic><corr>line</corr></choice>) &amp; extended <choice><sic>vnto</sic><corr>unto</corr></choice> Sinns grandnicus. It is <choice><sic>moreouer</sic><corr>moreover</corr></choice> deuyded by Mare Magiore, &amp; a <choice><sic>pece</sic><corr>piece</corr></choice> of the <placeName key="Mediterranean Sea" ref="http://www.wikidata.org/entity/Q4918">Mediteraneun</placeName> ſea. On the <choice><sic>ſouth</sic><corr>south</corr></choice> <choice><sic>ſyde</sic><corr>side</corr></choice> it hath the <choice><sic>ſea</sic><corr>sea</corr></choice> of <placeName key="India" ref="http://www.wikidata.org/entity/Q668">India</placeName>. On the <choice><sic>eaſt</sic><corr>east</corr></choice> the Ocean called Eous, <choice><sic>otherwiſe</sic><corr>otherwise</corr></choice>, the <choice><sic>eaſt</sic><corr>east</corr></choice> <choice><sic>ſea</sic><corr>sea</corr></choice>, And on the north the icy <choice><sic>ſea</sic><corr>sea</corr></choice> of Suhia. </p><p><placeName key="Europe" ref="http://www.wikidata.org/entity/Q46">Aſia</placeName> by estimation <choice><sic>ſeemeth</sic><corr>seemeth</corr></choice> as great as <placeName key="Europe" ref="http://www.wikidata.org/entity/Q46">Europe</placeName> and <placeName key="Europe" ref="http://www.wikidata.org/entity/Q46">Affrica</placeName>, yet it is not taken to <choice><sic>bee</sic><corr>be</corr></choice> <choice><sic>ſo</sic><corr>so</corr></choice> populus as <placeName key="Europe" ref="http://www.wikidata.org/entity/Q46">Europe</placeName> having many <choice><sic>wonderfull</sic><corr>wonderful</corr></choice> <choice><sic>deſerts</sic><corr>deserts</corr></choice>, huge <choice><sic>mountaines</sic><corr>mountains</corr></choice>, &amp; <choice><sic>ſpatious</sic><corr>spacious</corr></choice> <choice><sic>ſandy</sic><corr>sandy</corr></choice> <choice><sic>regiones</sic><corr>regions</corr></choice>, &amp; the mount Taurus <choice><sic>ſtretcheth</sic><corr>stretcheth</corr></choice> it <choice><sic>ſelf</sic><corr>self</corr></choice> very <choice><sic>farr</sic><corr>far</corr></choice> &amp; through the <choice><sic>middeſt</sic><corr>middest</corr></choice> thereof, </p><p>Some have <choice><sic>deuyded</sic><corr>divided</corr></choice> this <choice><sic>parte</sic><corr>part</corr></choice> into <choice><sic>fyue</sic><corr>five</corr></choice> portions, The firſt is that which <choice><sic>ioyneth</sic><corr>joyneth</corr></choice> vnto <placeName key="Europe" ref="http://www.wikidata.org/entity/Q46">Europe</placeName>, &amp; obeyeth <choice><sic>vnto</sic><corr>unto</corr></choice> the great Duke of Muſcouy.  The <choice><sic>ſecond</sic><corr>second</corr></choice> that which is <choice><sic>vnder</sic><corr>under</corr></choice> the great Cham Emperor of the Tartars.  The third that which is occupied by the race of the <orgName key="Ottoman Empire" ref="http://www.wikidata.org/entity/Q12560">Ottomans</orgName>, <choice><sic>vnder</sic><corr>under</corr></choice> the <choice><sic>foweth</sic><corr>fourth</corr></choice> is comprehended the <choice><sic>kingdome</sic><corr>kingdom</corr></choice> of <placeName key="Iran" ref="http://dbpedia.org/resource/Iran">Perſia</placeName>, <choice><sic>gouerned</sic><corr>governed</corr></choice> by the Sophie.  And the <choice><sic>fift</sic><corr>fifth</corr></choice> &amp; <choice><sic>laſte</sic><corr>last</corr></choice> <choice><sic>parte</sic><corr>part</corr></choice> is that which as of old ſoyer at this <choice><sic>preſent</sic><corr>present</corr></choice> it <choice><sic>retayneth</sic><corr>retaineth</corr></choice> the name of <placeName key="India" ref="http://www.wikidata.org/entity/Q668">India</placeName>, beeing deuyded vnder the <choice><sic>comaund</sic><corr>command</corr></choice> of many pety Kinges, whereof diuers are tributaries to the great Cham.  And in this parte is alſo <choice><sic>conteyned</sic><corr>contained</corr></choice> the great &amp; mighty kingdome of <placeName key="China" ref="http://www.wikidata.org/entity/Q29520">China</placeName>.  This parte of the earth is not only famous among prophane authors, for the firſt monarchies of the world, as of the <orgName key="African people" ref="http://www.wikidata.org/entity/Q1075929">Affricans</orgName>, <orgName key="Persians" ref="http://www.wikidata.org/entity/Q484206">Perſians</orgName>, Rabilanians, &amp; <orgName key="Medes" ref="http://www.wikidata.org/entity/Q8735">Medes</orgName>, but it is more illuſtrated aboue other partes in <choice><sic>ſacred ſcripture</sic><corr>sacred scripture</corr></choice>, wherein not only appeereth that in theſame mankynde was firſt created, by Almighty God<note type="researchNote">the Christian god</note>, but our Lord &amp; <choice><sic>ſauiour</sic><corr>savior</corr></choice> <choice><sic>Ieſus Chriſt</sic><corr>Jesus Christ</corr></choice> coming into this world for the redemption of man, did chooſe to make herein his birth place.  It is alſo to bee conſidered that the moſt <choice><sic>pretious</sic><corr>precious</corr></choice> thinges that the world doth yeild are <choice><sic>fonnd</sic><corr>found</corr></choice> in this noble parte thereof, as beſydes great varietie &amp; <choice><sic>diuers</sic><corr>diverse</corr></choice> <choice><sic>kyndes</sic><corr>kinds</corr></choice> of <choice><sic>beaſtes</sic><corr>beasts</corr></choice>, birds, excelent ſortes of ſpices, frutes, medicinall herbes, rootes, &amp; other thinges, As alſo the moſte pretious metalles, pretious ſtones, and pearles.</p><p>Ortelius, Abraham, 1527-1598. An epitome of Ortelius his Theater of the vvorld, vvherein the principal regions of the earth are descrived in smalle mappes. VVith a brief declaration annexed to ech mappe. And donne in more exact manner, then lyke declarations in Latin, French, or other languages. It is also amplyfied with new mappes wanting in the Latin editions. Antwerp: Iohn Norton, 1601. STC 18857. ProQuest, https://www.proquest.com/books/epitome-ortelius-his-theater-vvorld-vvherein/docview/2240904399/se-2. </p><p/></div>
 		</body>
 	</text>
 </TEI>
